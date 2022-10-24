@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "suyPp5WRyVYlM3kAqV1L06Sf5V9z+CeWHVHGfdLREY5V4iI8pu/MTN1w7NCHoeOOzleyAkrDTgrcgDU3vzEMLw==",
+  "success": true,
+  "projectFilePath": "/home/frncm/projects/swin/sign-in-app/api/contracts/contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/frncm/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
